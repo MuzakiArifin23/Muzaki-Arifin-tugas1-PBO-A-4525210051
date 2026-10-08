@@ -10,7 +10,9 @@
 
 **Screenshot:**
 
-![SS Materi 01](versi php/img/01.png)
+![SS Materi 01]
+<img width="1920" height="1080" alt="01" src="https://github.com/user-attachments/assets/d363ab99-5ec1-4c73-a3b2-e2dcb8e3c3ae" />
+
 
 **Penjelasan:**
 - `class iPhone` punya dua *property*: `$color` dan `$storage`.
@@ -28,7 +30,9 @@
 
 **Screenshot:**
 
-![SS Materi 02](img/02.png)
+![SS Materi 02]
+<img width="1920" height="1080" alt="02" src="https://github.com/user-attachments/assets/a04692b4-2b1a-4783-9c99-1aa04ffa0369" />
+
 
 **Penjelasan:**
 - Class `Mahasiswa` punya property `private` (`$nama`, `$nim`, `$umur`) yang hanya bisa diubah/dibaca lewat **getter** dan **setter** (*encapsulation*).
@@ -45,11 +49,15 @@
 
 **Screenshot `App.php` (bangun datar):**
 
-![SS Materi 03 App](img/03app.png)
+![SS Materi 03 App]
+<img width="1920" height="1080" alt="03app" src="https://github.com/user-attachments/assets/bf44f238-8635-4383-80fb-137c401d34b0" />
+
 
 **Screenshot `Main.php` (mahasiswa internasional):**
 
-![SS Materi 03 Main](img/03main.png)
+![SS Materi 03 Main]
+<img width="1920" height="1080" alt="03main" src="https://github.com/user-attachments/assets/09054943-4fec-4b61-b1a2-e24f02d96039" />
+
 
 **Penjelasan:**
 - *Inheritance* = class anak mewarisi property dan method dari class induk memakai kata kunci `extends`.
@@ -67,7 +75,9 @@
 
 **Screenshot:**
 
-![SS Materi 04](img/04.png)
+![SS Materi 04]
+<img width="1920" height="1080" alt="04" src="https://github.com/user-attachments/assets/3b8d8311-1898-4566-81f0-b6c344142dd6" />
+
 
 **Penjelasan:**
 - *Polymorphism* = satu pemanggilan method yang sama, tapi hasilnya berbeda tergantung jenis objeknya.
@@ -84,7 +94,9 @@
 
 **Screenshot:**
 
-![SS Materi 05](img/05.png)
+![SS Materi 05]
+<img width="1920" height="1080" alt="05" src="https://github.com/user-attachments/assets/6bce46ee-f6f3-4e9e-ae6a-6849320dff70" />
+
 
 **Penjelasan:**
 - **Asosiasi** (`Dokter` – `Pasien`): hubungan paling longgar. `Dokter` hanya "memakai" objek `Pasien` lewat parameter method `merawat($pasien)`. Keduanya berdiri sendiri.
@@ -100,7 +112,9 @@
 
 **Screenshot:**
 
-![SS Materi 06](img/06.png)
+![SS Materi 06]
+<img width="1920" height="1080" alt="06" src="https://github.com/user-attachments/assets/06755387-65ea-4b90-b398-91c9327537c0" />
+
 
 **Penjelasan:**
 - **Abstract class** `Vehicle` adalah kerangka dasar kendaraan (punya `$name` dan `showInfo()`). Class ini tidak bisa di-`new` langsung, hanya bisa diwarisi.

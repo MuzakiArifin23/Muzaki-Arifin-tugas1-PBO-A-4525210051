@@ -10,7 +10,7 @@
 
 **Screenshot:**
 
-![SS Materi 01](img/01.png)
+![SS Materi 01](versi php/img/01.png)
 
 **Penjelasan:**
 - `class iPhone` punya dua *property*: `$color` dan `$storage`.
